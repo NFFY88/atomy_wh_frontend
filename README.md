@@ -1,6 +1,6 @@
 # Pet
 
-This is my pet. Just pet, no more.
+This is pet. Just pet, no more.
 
 ## Quickstart
 
