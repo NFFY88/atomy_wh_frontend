@@ -7,7 +7,7 @@ This is pet. Just pet, no more.
 1. Setting Up Environment Variables and enter the correct values
 
 ```bash
-cp example.env.local .env.local
+cp .env.example .env
 ```
 
 2. Install dependecies
